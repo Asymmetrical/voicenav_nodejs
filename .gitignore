@@ -1,0 +1,6 @@
+.DS_Store
+Server log
+Server.log
+annyang.js
+node_modules/
+package-lock.json
